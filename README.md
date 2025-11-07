@@ -76,3 +76,5 @@ Implement a RESTful API using Django REST Framework. The API allow clients to re
 ```
 $ /products/product-list-api/
 ```
+
+Test docker pipeline
